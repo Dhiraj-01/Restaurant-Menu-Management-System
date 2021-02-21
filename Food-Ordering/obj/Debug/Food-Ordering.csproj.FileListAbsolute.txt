@@ -1,0 +1,12 @@
+D:\dhiraj\DDU\Sem-6\SOC\Project\Food-Ordering-System\Food-Ordering\bin\Food-Ordering.dll.config
+D:\dhiraj\DDU\Sem-6\SOC\Project\Food-Ordering-System\Food-Ordering\bin\Food-Ordering.dll
+D:\dhiraj\DDU\Sem-6\SOC\Project\Food-Ordering-System\Food-Ordering\bin\Food-Ordering.pdb
+D:\dhiraj\DDU\Sem-6\SOC\Project\Food-Ordering-System\Food-Ordering\bin\EntityFramework.dll
+D:\dhiraj\DDU\Sem-6\SOC\Project\Food-Ordering-System\Food-Ordering\bin\EntityFramework.SqlServer.dll
+D:\dhiraj\DDU\Sem-6\SOC\Project\Food-Ordering-System\Food-Ordering\bin\EntityFramework.xml
+D:\dhiraj\DDU\Sem-6\SOC\Project\Food-Ordering-System\Food-Ordering\bin\EntityFramework.SqlServer.xml
+D:\dhiraj\DDU\Sem-6\SOC\Project\Food-Ordering-System\Food-Ordering\obj\Debug\Food-Ordering.csprojAssemblyReference.cache
+D:\dhiraj\DDU\Sem-6\SOC\Project\Food-Ordering-System\Food-Ordering\obj\Debug\Food-Ordering.csproj.CoreCompileInputs.cache
+D:\dhiraj\DDU\Sem-6\SOC\Project\Food-Ordering-System\Food-Ordering\obj\Debug\Food-Ordering.csproj.CopyComplete
+D:\dhiraj\DDU\Sem-6\SOC\Project\Food-Ordering-System\Food-Ordering\obj\Debug\Food-Ordering.dll
+D:\dhiraj\DDU\Sem-6\SOC\Project\Food-Ordering-System\Food-Ordering\obj\Debug\Food-Ordering.pdb
